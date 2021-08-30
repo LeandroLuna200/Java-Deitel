@@ -1,0 +1,6 @@
+1 asd asd 125,3
+2 qwe qwe -159,3
+3 ert ert 0
+4 cvb cvb -15,0
+5 ghj ghj -17,7
+6 lkj lkj 8,0
